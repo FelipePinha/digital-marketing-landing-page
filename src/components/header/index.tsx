@@ -25,7 +25,7 @@ export function Header() {
                         <NavItem isDropdown text="Shop"/>
                     </nav>
 
-                    <a href="#" className="hidden xl:flex items-center gap-1 bg-onahau hover:opacity-80 rounded-md py-2 px-5 font-semibold transition-colors">
+                    <a href="#" className="hidden xl:flex items-center text-sm gap-1 bg-onahau hover:opacity-80 rounded-md py-2 px-5 font-semibold transition-colors">
                         Get Started
                         <FiArrowRight size={12} />
                     </a>
