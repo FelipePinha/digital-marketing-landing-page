@@ -9,8 +9,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        cyan: '#D3F9FF',
+        onahau: '#BEE1E6',
+        lagoon: '#006D77',
+        charcoal: '#444444'
       },
     },
   },
