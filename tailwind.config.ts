@@ -13,7 +13,8 @@ export default {
         onahau: '#BEE1E6',
         lagoon: '#006D77',
         charcoal: '#444444',
-        gainsboro: '#E0E0E0'
+        gainsboro: '#E0E0E0',
+        'suvaGrey': '#929292'
       },
     },
   },
