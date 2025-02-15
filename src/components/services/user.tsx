@@ -20,7 +20,7 @@ export function User({name, text, src}: UserProps) {
 
                 <h3>{name}</h3>
             </div>
-            <p className="text-charcoal text-base/relaxed text-justify">{text}</p>
+            <p className="text-charcoal text-base/relaxed text-justify w-2/3 lg:w-auto">{text}</p>
         </div>
     )
 }
